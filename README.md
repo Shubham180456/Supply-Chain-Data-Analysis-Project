@@ -2,20 +2,20 @@
 Supply Chain Data Analysis Project analyzes structured and unstructured data to uncover insights into product sales, shipping times, and customer behavior. It includes sales trends, late delivery risk predictions, and correlations between web traffic and sales to optimize supply chain operations and improve efficiency.
 
 ## **Table of Contents**
-1. [Project Overview](#project-overview)
-2. [Objective](#objective)
-3. [Datasets](#datasets)
-   - [Structured Data](#1-structured-data)
-   - [Unstructured Data](#2-unstructured-data)
-4. [Key Analysis Areas](#key-analysis-areas)
-   - [Sales Analysis](#1-sales-analysis)
-   - [Late Delivery Risk](#2-late-delivery-risk)
-   - [Product Views and Customer Behavior](#3-product-views-and-customer-behavior)
-   - [Correlation Between Views and Sales](#4-correlation-between-views-and-sales)
-   - [Predictive Modeling](#5-predictive-modeling)
-5. [Technologies Used](#technologies-used)
-6. [Results](#results)
-7. [Conclusion](#conclusion)
+1. Project Overview
+2. Objective
+3. Datasets
+   - Structured Data
+   - Unstructured Data
+4. Key Analysis Areas
+   - Sales Analysis
+   - Late Delivery Risk
+   - Product Views and Customer Behavior
+   - Correlation Between Views and Sales
+   - Predictive Modeling
+5. Technologies Used
+6. Results
+7. Conclusion
 
 
 ## **Project Overview**
